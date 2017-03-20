@@ -1,0 +1,11 @@
+{
+  "name": "async_weather",
+  "version": "1.0.0",
+  "description": "For CNDC on udemy; using weather API to learn async node features",
+  "main": "example_callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matzy",
+  "license": "ISC"
+}
